@@ -6,16 +6,22 @@ body{
 header img{
     height: 400px;
     width: 600px;
-    border: 5px solid white;
-
 }
 h1
 {
     color:white;
 }
-main img{
+
+footer a {
+    margin: 20px;
+    text-align: center;
+    
+}
+.container{
+    padding: 75px;
+}
+footer img{
     width: 40px;
     height: 40px;
-    margin: 20px;
-    display: flex;
+   
 }
